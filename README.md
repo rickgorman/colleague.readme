@@ -8,11 +8,11 @@ Hi, I'm a student of the breath who lives in Williamsburg, Brooklyn. I was born 
 
 Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web dev shop at the same time. My friends mentored me in both programming and networking, the latter of which I initially gravitated towards after college. I spent a decade working in IT, doing everything from help desk to management to DevOps to Product Development. I've since shifted towards the other side of what I started learning in high school, and have been building backends and frontend components here in NYC. I enjoy writing code, and love talking entrepreneurship.
 
-My personal mission is to connect with others by sharing my truth and offering my highest talents in service. I'm a strong proponent of personal integrity and individual accountability.  If you hear me say that I'm going to do something, I ask that you hold me accountable to my word. If we make plans to get a beverage two weeks from today on Thursday after work, you better believe that I'll be there! I want nothing more in life than to be part of the rising tide that lifts all ships. That and my own private island, so long as the sea levels hold steady.
+My personal mission is to connect with others by sharing my truth and offering my highest talents in service. I'm a strong proponent of personal integrity and individual accountability.  If you hear me say that I'm going to do something, I ask that you hold me accountable to my word. If we make plans to get a beverage two weeks from today on Thursday after work, you better believe that I'll be there! I want nothing more in life than to be part of the rising tide that lifts all ships. That and an orchard in the tropics.
 
-Professionally, my mission is to co-found a software company in Hawaii in 2026. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology. What's better than having a company picnic at the beach? Not much, that's what. The warm weather ain't bad, either.
+Professionally, my mission is to co-found a software company in Hawaii starting in 2026. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology. I'm currently working to pick up the skills needed to make that dream happen. What's better than having a company picnic at the beach? Not much, that's what.
 
-Short-term, I'm exploring NYC and getting to know all of its nooks and crannies. If you know of some off-the-beaten-path spot, I'm all ears!
+Short-term, I'm exploring NYC and getting to know all of its nooks and crannies. If you know of an off-the-beaten-path spot, talk to me about it!
 
 ## Role
 
@@ -67,4 +67,4 @@ I do ask that you present your feedback in the form of data first, judgements se
 
 ## Favorite treat
 
-A big bowl of fresh, organic strawberries, or a Sunrise papaya with lime slice.
+A big bowl of fresh, organic strawberries, or a sunrise papaya with lime slice.
