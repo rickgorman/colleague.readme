@@ -1,18 +1,18 @@
 # Rick Gorman
 
-###### June 2019
+###### July 2020
 
 ## Intro
 
-Hi, I'm a student of the breath who lives in Williamsburg, Brooklyn. I was born in the saguaro-filled deserts of Arizona, grew up bodyboarding on the beaches of Hawaii, went to college for Computer Science and started my first career in IT in the evergreen forests of Oregon. I enjoy hiking, cooking, traveling, volunteering and participating in meditation retreats, and bodysurfing in a warm ocean, cooled by soft offshore breezes.
+Hi, I'm a student of the breath currently residing in Tucson, AZ. I was born in the saguaro-filled deserts of Arizona, grew up bodyboarding on the beaches of Hawaii, went to college for Computer Science and started my first career in IT in the evergreen forests of Oregon. During the pandemic, I relocated from NYC back to Tucson to be closer to family. I enjoy hiking, cooking, traveling, volunteering and participating in meditation retreats, and bodysurfing in a warm ocean, cooled by soft offshore breezes.
 
-Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web dev shop at the same time. My friends mentored me in both programming and networking, the latter of which I initially gravitated towards after college. I spent a decade working in IT, doing everything from help desk to management to DevOps to Product Development. I've since shifted towards the other side of what I started learning in high school, and have been building backends and frontend components here in NYC. I enjoy writing code, and love talking entrepreneurship.
+Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web dev shop at the same time. I was mentored in both programming and networking, the latter of which I initially gravitated towards after college. I spent a decade working in IT, doing everything from help desk to management to DevOps to Product Development. I've since shifted towards the other end of tech, and have been building web backends and frontends. I enjoy writing code, and love talking entrepreneurship.
 
 My personal mission is to connect with others by sharing my truth and offering my highest talents in service. I'm a strong proponent of personal integrity and individual accountability.  If you hear me say that I'm going to do something, I ask that you hold me accountable to my word. If we make plans to get a beverage two weeks from today on Thursday after work, you better believe that I'll be there! I want nothing more in life than to be part of the rising tide that lifts all ships. That and an orchard in the tropics.
 
-Professionally, my mission is to co-found a software company in Hawaii starting in 2026. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology. I'm currently working to pick up the skills needed to make that dream happen. What's better than having a company picnic at the beach? Not much, that's what.
+Professionally, my mission is to co-found a software company serving Hawaii in 2026. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology. I'm currently working to pick up the skills needed to make that dream happen. What's better than having a company picnic at the beach? Not much, that's what.
 
-Short-term, I'm exploring NYC and getting to know all of its nooks and crannies. If you know of an off-the-beaten-path spot, talk to me about it!
+Short-term, I'm offroading in the Southwest and exploring off-the-beaten-path roads. If you know of any cool spots to check out, I'm all ears!
 
 ## Role
 
@@ -28,7 +28,7 @@ I'm an Engineer. My role is to empathize with and understand customer pain point
 
 ## My approach
 
-I like writing clean, composable, reusable code. The first time through, I'll generally add an if statement. The second time through, I'll work towards a better abstraction and leave some notes. On the third pass, that abstraction gets pulled out and the code gets refactored. Yes, it adds time to the build. No, I'm not interested in pushing more technical debt onto the pile. Now is the proper time to refactor, and unless the business is going to fail if this doesn't ship today, this is when we pay back the interest on the technical debt.
+I like writing clean, composable, reusable code. The first time through, I'll generally add an if statement. The second time through, I'll work towards a better abstraction and leave some notes. On the third pass, that abstraction gets pulled out and the code gets refactored. Yes, it adds time to the build. No, I'm not interested in pushing more technical debt onto the pile. Now is the proper time to refactor, and unless the business is going to fail if this doesn't ship today, this is when we pay back the interest on the technical debt. I could be totally wrong about this, and I work to consistently refine my approach.
 
 I've recently become a big fan of Sandi Metz's 4 rules:
 
@@ -68,3 +68,9 @@ I do ask that you present your feedback in the form of data first, judgements se
 ## Favorite treat
 
 A big bowl of fresh, organic strawberries, or a sunrise papaya with lime slice.
+
+## Gifting
+
+On the rare occassion that you might think it a good idea to buy me a thing, instead please consider donating to the Nature Conservancy's mission of [Planting a Billion Trees](https://www.nature.org/en-us/get-involved/how-to-help/plant-a-billion/). I send out my fair share of hot air, and any help balancing that is greatly appreciated.
+
+# Thanks for reading!
