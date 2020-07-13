@@ -4,7 +4,7 @@
 
 ## Intro
 
-Hi, I'm a student of the breath currently residing in Tucson, AZ. I was born in the saguaro-filled deserts of Arizona, grew up bodyboarding on the beaches of Hawaii, went to college for Computer Science and started my first career in IT in the evergreen forests of Oregon. During the pandemic, I relocated from NYC back to Tucson to be closer to family. I enjoy hiking, cooking, traveling, volunteering and participating in meditation retreats, and bodysurfing in a warm ocean, cooled by soft offshore breezes.
+Hi, I'm a student of the breath currently residing in Tucson, AZ. I was born in the saguaro-filled deserts of Arizona, grew up bodyboarding on the beaches of Hawaii, went to college for Computer Science and started my first career in IT in the evergreen forests of Oregon. During the pandemic, I relocated from NYC back to Tucson to be closer to family. I enjoy hiking, cooking, traveling, volunteering and participating in meditation retreats, and bodysurfing in a warm ocean, cooled by soft offshore breezes. Also 4x4 offroading, as of the strange year of 2020.
 
 Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web dev shop at the same time. I was mentored in both programming and networking, the latter of which I initially gravitated towards after college. I spent a decade working in IT, doing everything from help desk to management to DevOps to Product Development. I've since shifted towards the other end of tech, and have been building web backends and frontends. I enjoy writing code, and love talking entrepreneurship.
 
