@@ -1,6 +1,6 @@
 # Rick Gorman
 
-###### October 2022
+###### November 2023
 
 ## Intro
 
@@ -8,13 +8,13 @@ Hi, I'm a technologist named Rick, currently residing in Tucson, AZ. I grew up b
 
 I enjoy hiking, cooking, dancing, traveling, volunteering and participating in meditation retreats, and bodysurfing from time to time. I ocasssionally live/work out of my 4x4 rig, way up in the mountains.
 
-An iota about my tech roots. Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web shop at the same time and no one would look at you funny for it. Instead, they'd look at you funny because you did things with computers. My internet company friends mentored me in programming and networking, leading me to head to college for Computer Science. After college, I spent a decade building a career in IT, starting at help desk and working my way into IT and Product management, hitting just about every note in-between. I later refocused on software development, leaning into the independent contributor role that I now enjoy full-time.
+An iota about my tech roots. Early on in high school, some older friends of mine started an "internet company." This was back in '96 when you could be both an ISP and a web shop at the same time and no one would look at you funny for it. Instead, they'd look at you funny because you did things with computers. My internet company friends mentored me in programming and networking, leading me to head to college for Computer Science. After college, I spent a decade building a career in IT, starting at help desk and working my way into IT and Product management, hitting just about every role in-between. At one point I learned a bunch of math and played poker for a living. I later refocused on software development, leaning into the independent contributor role that I now enjoy full-time.
 
 # Mission
 
-My personal mission is to connect with others by sharing my truth and offering my highest talents in service to the greater needs of the group. I'm a strong proponent of personal integrity and individual accountability. If you hear me say that I'm going to do something, I ask that you hold me accountable to my word. If we make plans to get a beverage two weeks from today on Thursday after work, you better believe that I'll be there!
+My personal mission is to steer towards joy. I'm a strong proponent of personal integrity and individual accountability. If you hear me say that I'm going to do something, I ask that you hold me accountable to my word. If we make plans to get a beverage two weeks from today on Thursday after work, you better believe that I'll be there!
 
-Professionally, my mission is to lean into challenging business problems, forging the path for the rest of the team, mentoring along the way. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology. I'm currently working to pick up the connections and skills needed to make that dream happen.
+Professionally, my mission is to lean into challenging business problems, forge the path for the rest of the team, and mentor/be mentored along the way. I want to create apprenticeship and mentorship opportunities for kids like myself who had to travel to the mainland to start their careers in technology.
 
 Short-term, I'm exploring off-the-beaten-path spots in the Southwest. If you know of any cool spots to check out, I'm all ears!
 
@@ -28,11 +28,11 @@ I'm an Engineer. My role is to empathize with and understand customer and stakeh
 - **Compassion** leads to trust, understanding, and joy
 - **Humor** keeps it from getting old, and helps when the going gets rough
 - **Service** is the highest form of giving
-- **Honor** drives our culture and teaches us which of our shared values are worth reaching towards
+- **Humility** comes from knowing that everyone makes mistakes
 
 ## My approach to code
 
-I like writing clean, tested, composable, reusable code. The first time through, I'll generally add an if statement. The second time through, I'll work towards a better abstraction and leave some notes. On the third pass, that abstraction gets pulled out and the code gets refactored. Generally, this is the proper time to refactor, and unless the business is going to fail if this doesn't ship today, this is when we pay back the interest on the technical debt.
+I like writing clean, tested, composable, reusable code. The first time through, I'll generally add an if statement. The second time through, I'll work towards a better abstraction and leave some notes. On the third pass, that abstraction gets pulled out and the code gets refactored. Generally, I find this to be the right time to refactor, and unless the business is going to fail if this doesn't ship today, this is when we pay back the interest on the technical debt.
 
 As far as Object-orientedness goes, I find myself time and time again leaning into Sandi Metz's 4 rules:
 
@@ -62,7 +62,7 @@ When we're pairing, anything goes, so long as we're on the same page. If you thi
 ## Quirks
 
 - **Pull notifications** - I'm not the type of person who enjoys push notifications. I check email a couple of times a day, I'll check Slack from time to time, but if it's after-hours, I ask that you call or text me if something's up. I'm not ignoring you; I'm protecting my own sanity.
-- **Flow state** - When I do manage to get into flow-state, I may not check email/Slack for hours on end. If something's on fire and I need to know, please send a strong notification or tap me on the shoulder.
+- **Flow state** - When I do manage to get into flow-state, I may not check email/Slack for hours on end. If something's on fire and I need to know, please send a strong notification.
 - **Long periods of silence before responding** - I choose my words carefully. If it seems like I'm thinking about something, you're right! That's exactly what I'm doing. My ask is that you give me a moment or two to come back to you with a response.
 - **Timeliness** - I make an effort to be on-time for meetings, and expect the same from others. If you're late to a meeting that I'm running, odds are that it started at the time we agreed to start. My ask is that you send a ping out if you expect to be late, that way we can work to adjust our agreed starting time.
 
